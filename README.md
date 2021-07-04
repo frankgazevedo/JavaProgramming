@@ -1,1 +1,1 @@
-Este README é um teste, bem como todo este diretório.
+This repository was created for my JAVA programming language studies
